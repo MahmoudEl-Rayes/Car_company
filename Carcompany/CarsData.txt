@@ -1,0 +1,12 @@
+11
+toyota corolla red 2004 4 3 10000
+honda civic blue 2015 3 1 20000
+ford f-150 silver 2020 0 2 60000
+chevrolet camaro black 2022 3 4 40000
+bmw x5 white 2015 5 6 20000
+mercedes-benz e-class gray 2016 2 6 10000
+toyota g_calss white 2015 0 1 100000
+audi a4 black 2018 3 2 25000
+volkswagen golf silver 2017 2 2 15000
+nissan altima gray 2019 4 2 18000
+toyota corolla blue 2004 3 4 10000
